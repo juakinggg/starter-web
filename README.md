@@ -13,7 +13,7 @@ This is purpose
 ## How to contribute
 
 This is contribute
-
+Please fork this repository
 ## Deploy
 
 Git.Training.2016
