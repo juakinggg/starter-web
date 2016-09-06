@@ -2,6 +2,7 @@
 
 This is a simple
 aaa
+Another line to rebase
 ## Introduction
 
 This is another example
