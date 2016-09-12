@@ -19,4 +19,4 @@ This is contribute
 Please fork this repository
 ## Deploy
 
-Git.Training.2016
+Git.Training.2016 All rights reserved.
